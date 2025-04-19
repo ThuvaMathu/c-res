@@ -1,0 +1,90 @@
+.leftmenu{	
+	background: #fdfcfc;
+	border: solid 1px #F26921;
+	border-radius: 3px;
+	height: 75vh;
+}
+.cont-content{
+	background: #fdfcfc;	
+	padding:10px;
+	border: solid 1px #F26921;
+	border-radius: 3px;
+}
+
+.header-img{
+	width: 100%;
+    border: solid 1px;
+}
+
+.list-img{
+	width: 55%;
+	border:solid 1px  #F26921;
+}
+li{
+	padding:10px;
+}
+
+a{
+	font-size:16px;
+	font-weight: bold;
+	color: #F26921;	
+	text-decoration:none
+}
+a:hover{
+	font-size:16px;
+	font-weight: bold;
+	color: #F26921;
+	text-decoration:underline;
+}
+.a-selected{
+	font-size:16px;
+	font-weight: bold;
+	color: #F26921;
+	text-decoration:underline;
+}
+
+label{
+	font-weight: bold;
+}
+
+.icon-color{
+	color: #F26921;
+	margin-right: 3px;
+}
+
+.activelink{
+	font-size:16px;
+	font-weight: bold;
+	color: #F26921;
+	text-decoration:underline;
+}
+
+.btn-primary{
+	background-color: #F26921;
+	border-color: #F26921;
+}
+
+.container-fluid{
+	margin: 10px 0;
+}
+
+table.Calendar  button{
+    color: #f26921;
+    width: 38px;
+    -webkit-appearance: button;
+}
+
+table.Calendar {
+    caption-side: bottom;
+    color: #f26921;
+    border-collapse: collapse;
+    background: #f7f6f6;
+    border: solid 1px;
+}
+.react-calendar__month-view__weekdays {
+	color: gray;
+  }
+  
+  .react-calendar__navigation button {
+	font-size: 1em;
+  }

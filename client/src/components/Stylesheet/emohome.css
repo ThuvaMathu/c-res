@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  .gpd-clm{
+    padding:5px 0;
+  }
+  
+  #iidc{
+    flex-basis:240%;
+    height:300px;
+  }
+  #iidc2{
+    flex-basis:240%;
+    height:auto;
+  }
+  #i8zi{
+    height:250px;
+  }
+  #il6i{
+    max-width: 1000px;
+    height:270px;
+    padding:5px 0 5px 0;
+    margin:10px 10px 5px 10px;
+    box-shadow:0 0 5px 3px rgba(80, 80, 80, 0.58);
+    margin-left: 18em;
+    overflow: auto;
+  }
+  #il6i2{
+    width:auto;
+    height: 420px;
+    padding:5px 0 5px 0;
+    margin:10px 10px 5px 10px;
+    box-shadow:0 0 5px 3px rgba(80, 80, 80, 0.58);
+    
+  }
+  #izxk{
+    width:auto;
+    height:200px;
+    padding:5px 0 5px 0;
+    margin:10px 10px 5px 10px;
+    
+    box-shadow:0 0 5px 3px rgba(80, 80, 80, 0.58);
+    overflow: hidden;
+  }
+  
+  #isng{
+    width:auto;
+    height:400px;
+    padding:5px 0 5px 0;
+    margin:10px 3em 5px 3em;
+    box-shadow:0 0 5px 3px rgba(80, 80, 80, 0.58);
+  }
+  #iwvhr{
+    padding:0 0 0 0;
+    margin:30px 0;
+    font-size:64px;
+    font-weight:700;
+    text-align:center;
+    font-style:normal;
+    text-shadow:2px 2px 4px #f66917;
+  }
+  .list-group {
+      position:absolute;
+      z-index:initial;
+  }
+  .list-group-item{
+    position:absolute;
+    z-index:initial;
+}
+.span_content{
+    font-size: 16;
+    font-weight: bold;
+}
+.content-pading{
+    padding-left: 10px;
+}
+hr{
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color:gray
+}
+.h3style{
+    font-size: 30px;
+    color: rgb(255, 106, 7);
+    text-align: center;
+    margin-top: 10px;
+}
+/*******************************************************************************************************/
+ .leave-container{
+     position:relative;
+     margin-left: 30px;
+     margin-top: 20px;
+ }
+ /*************************************** time sheet ****************************************************************/
+ .shedule_table{
+  border-radius:1px 1px 1px 1px;
+  margin-left: 38%;
+
+}
+.shedule_cell{
+  
+    border:2px solid #ef4e09;
+  
+}
+.shedule-collumn{
+  box-shadow:0 0 7px 2px #443f3f;
+  margin:5px 40% 5px 5px;
+  padding:2px 2px 2px 2px;
+  width:60%;
+
+}
+.shedule_cal{
+  background-color: black;
+}
+.shedule-outer-table{
+  margin:2% 17% 15px 17%;
+  box-shadow:0 0 9px 2px rgba(63, 23, 0, 0.87);
+  text-align:center;
+  color:#42403e;
+  align-content: center;
+  padding:4px 4px 4px 4px;
+  overflow:auto;
+}
+.pay-container{
+  text-align: left;
+  overflow: scroll;
+}
+.date{
+  text-align: right;
+  margin-right: 40px;
+  color: #3a1100;
+}
+.h4pay{
+  color: #2c0900;
+  text-align: center;
+  padding-top: 10px;
+}
+/****************************************************************/
+.einner-col{
+  margin:0 5px 3em 5px;
+  padding:5px 10px 5px 10px;
+  box-shadow:0 0 7px 2px rgba(17, 6, 0, 0.85);
+  height: 200px;
+  overflow: hidden;
+}
+.einner2-col{
+  margin:0 5px 0 5px;
+  padding:5px 10px 5px 10px;
+  box-shadow:0 0 7px 2px rgba(119, 40, 0, 0.85);
+  height:auto;
+  
+}
+.EAbutton{
+  margin-left: 4  0%;
+  margin-bottom: 3%;
+}
